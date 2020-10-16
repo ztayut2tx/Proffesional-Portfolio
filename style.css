@@ -3,3 +3,8 @@ body {
     margin-left:20px;
     background-color: antiquewhite;
 }
+
+.col-sm-3 {
+    height: auto;
+    overflow: hidden;
+}
