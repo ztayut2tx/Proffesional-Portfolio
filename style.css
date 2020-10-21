@@ -13,6 +13,7 @@ body {
       border-radius: 0;
       color: antiquewhite;
       background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_net.png");
+      font-family: 'Audiowide', cursive;;
 }
 
  .navbar-brand {
@@ -20,7 +21,11 @@ body {
         font-family: 'Audiowide', cursive;
         color: antiquewhite;
 }
-    
+.nav {
+    color: antiquewhite;
+}
+
+
 
 .col-sm-3 {
     height: auto;
@@ -28,10 +33,11 @@ body {
 }
 
 .jumbotron {
-    background: #358CCE;
-    color: #FFF;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/prism.png");
+    color:antiquewhite;
     border-radius: 0px;
     font-family: 'Jolly Lodger', cursive;
+    text-align: center;
     }
     .jumbotron-sm { padding-top: 24px;
     padding-bottom: 24px; }
@@ -40,6 +46,14 @@ body {
     }
     .h1 small {
     font-size: 24px;
+    float:right;
+    }
+    img.small {
+        width:200px;
+        height:200px;
+        border-radius: 50%;
+        border-style: solid;
+        border-color: black;
     }
 
 .portfolio {
@@ -47,11 +61,30 @@ body {
     color: antiquewhite;
 }
 
+.img-responsive {
+    width:300px;
+    height: 400px;
+}
+
 footer {
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_net.png");
     padding: 30px;
    
   
+}
+
+.contact{
+    text-align: center;
+    font-family:'Jolly Lodger', cursive ;
+    font-size:50px;
+    
+}
+
+h1 {
+    font-size: 70px;
+    color:antiquewhite;
+    text-decoration: underline;
+    
 }
 
 
