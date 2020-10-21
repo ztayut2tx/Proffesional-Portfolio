@@ -1,17 +1,37 @@
 body {
     margin-top: 20px;
     margin-left:20px;
-    background-color: antiquewhite;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/y-so-serious.png");
 }
+
+
+
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar {
+      margin-bottom: 0;
+      margin-top: 0%;
+      border-radius: 0;
+      color: antiquewhite;
+      background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_net.png");
+}
+
+ .navbar-brand {
+        font-size: 40px;
+        font-family: 'Audiowide', cursive;
+        color: antiquewhite;
+}
+    
 
 .col-sm-3 {
     height: auto;
     overflow: hidden;
 }
+
 .jumbotron {
     background: #358CCE;
     color: #FFF;
     border-radius: 0px;
+    font-family: 'Jolly Lodger', cursive;
     }
     .jumbotron-sm { padding-top: 24px;
     padding-bottom: 24px; }
@@ -21,3 +41,18 @@ body {
     .h1 small {
     font-size: 24px;
     }
+
+.portfolio {
+    font-family: 'Press Start 2P', cursive;
+    color: antiquewhite;
+}
+
+footer {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_net.png");
+    padding: 30px;
+   
+  
+}
+
+
+
