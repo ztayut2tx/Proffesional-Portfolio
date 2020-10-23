@@ -1,6 +1,7 @@
 body {
-    margin-top: 20px;
-    margin-left:20px;
+    /*margin-top: 20px;
+    margin-left:20px;*/
+    margin: 20px;
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/y-so-serious.png");
 }
 
@@ -17,7 +18,7 @@ body {
 }
 
  .navbar-brand {
-        font-size: 40px;
+        font-size: 200%;
         font-family: 'Audiowide', cursive;
         color: antiquewhite;
 }
@@ -88,6 +89,11 @@ h1 {
     color: antiquewhite;
     text-align: center;
     float: right;
+}
+
+section {
+    text-align: center;
+    font-size: 400%;
 }
 
 
