@@ -64,6 +64,11 @@ body {
 }
 
 footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_net.png");
     padding: 30px;
    
@@ -89,11 +94,26 @@ h1 {
     color: antiquewhite;
     text-align: center;
     float: right;
+    font-size: 25px;
+}
+
+.row {
+    font-family:'Jolly Lodger', cursive;
+    color: antiquewhite;
+
+
 }
 
 section {
     text-align: center;
     font-size: 400%;
+}
+.smalls {
+    float: left;
+    border-radius: 50%;
+}
+button {
+    font-family:'Jolly Lodger', cursive;
 }
 
 
