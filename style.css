@@ -63,18 +63,6 @@ body {
     height: 400px;
 }
 
-footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_net.png");
-    padding: 30px;
-   
-  
-}
-
 .contact{
     text-align: center;
     font-family:'Jolly Lodger', cursive ;
@@ -114,6 +102,18 @@ section {
 }
 button {
     font-family:'Jolly Lodger', cursive;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/noisy_net.png");
+    padding: 30px;
+    font-family:'Jolly Lodger', cursive ;
+    font-size: 40px;
+    color: antiquewhite;
 }
 
 
