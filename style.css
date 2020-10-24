@@ -1,13 +1,9 @@
 body {
-    /*margin-top: 20px;
-    margin-left:20px;*/
+  
     margin: 20px;
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/y-so-serious.png");
 }
 
-
-
-    /* Remove the navbar's default margin-bottom and rounded borders */ 
 .navbar {
       margin-bottom: 0;
       margin-top: 0%;
@@ -51,7 +47,7 @@ body {
         border-radius: 50%;
         border-style: solid;
         border-color: black;
-    }
+}
 
 .portfolio {
     font-family: 'Press Start 2P', cursive;
@@ -96,13 +92,16 @@ section {
     text-align: center;
     font-size: 400%;
 }
+
 .smalls {
     float: left;
     border-radius: 50%;
 }
+
 button {
     font-family:'Jolly Lodger', cursive;
 }
+
 footer {
     position: fixed;
     left: 0;
