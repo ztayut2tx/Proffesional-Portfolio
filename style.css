@@ -102,8 +102,31 @@ button {
     font-family:'Jolly Lodger', cursive;
 }
 
+#inputForm {
+    float: right;
+}
+
+#cardCan {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-size: 25px;
+}
+
+.card {
+    color:antiquewhite;
+}
+
+h5 {
+    font-size:35px;
+    color:antiquewhite;
+}
+
 footer {
-    position: fixed;
+    position: ;
     left: 0;
     bottom: 0;
     width: 100%;
